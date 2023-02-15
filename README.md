@@ -1,4 +1,5 @@
-#Smart Meter in London – Kaggle Dataset
+# Smart Meter in London – Kaggle Dataset
+
 In this project, Smart meter on london from Kaggle Dataset was preprocessed and analysed using Python.
 
 * Discovered temperature, UV index and dew point have an inverse correlation with energy consumption, while humidity
